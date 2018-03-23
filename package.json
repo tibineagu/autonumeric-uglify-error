@@ -1,0 +1,17 @@
+{
+  "name": "autonumeric-uglify-error",
+  "version": "1.0.0",
+  "description": "Illustrates an error when using autonumeric with webpack and uglifyjs",
+  "main": "index.js",
+  "repository": "git@github.com:tibineagu/autonumeric-uglify-error.git",
+  "license": "MIT",
+  "dependencies": {
+    "autonumeric": "^4.2.8"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "3.6"
+  }
+}
